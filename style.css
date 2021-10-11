@@ -557,6 +557,9 @@ right: 5px;
   height: 54vh;
   width: 100vw;
   }
+	.flickity-page-dots{
+top: 85vw;
+  }
   
   .carousel-cell{
   width: 90vw;
